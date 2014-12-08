@@ -20,7 +20,10 @@ Here provide couple screenshots of your project. You can use a tool like https:/
 We sincerely use some API's listed below;
 
 Django
+
 semantic-UI
+
 pdf.js by mozilla
+
 WebRTC by Muaz Khan
 
