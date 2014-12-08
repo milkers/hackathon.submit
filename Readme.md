@@ -2,9 +2,11 @@
 
 Welcome to our KGVH submission page.
 
+[![Presenteds](/images/desk.png?raw=true "Presenteds")](https://koding.com/Hackathon)
+
 ## Description
 
-[![Koding Hackathon](/images/badge.png?raw=true "Koding Hackathon")](https://koding.com/Hackathon)
+[![Koding Hackathon](/images/badge.png?raw=true "Koding Hackathon")](http://uekkbf02d1db.ertank.koding.io:8000/)
 
 We build a tool for slidecasting. People upload their presentations to the site and then start presenting while we record their voice as well as how they interact with their presentations.
 
