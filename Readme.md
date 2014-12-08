@@ -1,14 +1,12 @@
-# Koding Global Virtual Hackathon's Submission Example
+# TOKI - Koding Global Virtual Hackathon's Submission
 
-This is a sample submission repository for the hackathon. If you don't know what that is, please [go here](https://koding.com/Hackathon). You can fork this repo and use this as a starting point. You *do not* have
-send a pull request for this repo. This is just a sample of what your repo can look like when you submit it
-to us as part of the final process for the hackathon.
+Welcome to our KGVH submission page.
 
 ## Description
 
 [![Koding Hackathon](/images/badge.png?raw=true "Koding Hackathon")](https://koding.com/Hackathon)
 
-A brief introduction to your project. It should include the motivation behind the project and also how it addresses the hackthon theme you've selected.
+We build a tool for slidecasting. People upload their presentations to the site and then start presenting while we record their voice as well as how they interact with their presentations.
 
 ## Screenshots
 
